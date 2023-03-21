@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1662976322 source:c:\users\eleve\documents\cpp\gestionrandom\main.cpp
+	<iostream>
+	"superrand.h"
+
+1662976322 .h"
+
+1662978531 c:\users\eleve\documents\cpp\gestionrandom\include\superrand.h
+	<iostream>
+	<vector>
+
+1662978531 
+
+1664710748 source:/home/matheo/Projets/Cpp/cpp_learn_bts/gestionrandom/main.cpp
+	<iostream>
+	"superrand.h"
+
+1664190164 /home/matheo/Projets/Cpp/cpp_learn_bts/gestionrandom/include/superrand.h
+	<iostream>
+	<vector>
+	<random>
+
+1664710791 source:/home/matheo/Projets/Cpp/cpp_learn_bts/gestionrandom/src/superrand.cpp
+	"superrand.h"
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
+1663573943 source:c:\users\matheo\documents\projet\cpp_learn_bts\gestionrandom\main.cpp
+	<iostream>
+	"superrand.h"
+
+1664184605 c:\users\matheo\documents\projet\cpp_learn_bts\gestionrandom\include\superrand.h
+	<iostream>
+	<vector>
+	<random>
+
+1664187906 source:c:\users\matheo\documents\projet\cpp_learn_bts\gestionrandom\src\superrand.cpp
+	"superrand.h"
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+
